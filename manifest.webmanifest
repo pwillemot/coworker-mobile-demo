@@ -1,0 +1,13 @@
+{
+  "name": "Agentforce Coworker",
+  "short_name": "Coworker",
+  "start_url": "./index.html#brief",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#4f5df0",
+  "theme_color": "#faf9f7",
+  "icons": [
+    { "src": "assets/icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
